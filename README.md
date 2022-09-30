@@ -1,2 +1,2 @@
 # Page-Cadastro
-Página de cadastro v1.0
+Página de cadastro v2.0
